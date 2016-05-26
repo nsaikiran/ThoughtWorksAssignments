@@ -6,4 +6,8 @@ Contains TW101 Assignments
 2. HLine.java
 3. VLine.java
 4. Traingle.java
-5. 
+5. Isosceles.java
+6. Diamond.java
+7. DiamondWithName.java
+8. Say.java
+9. prime\_factors.c ( execute Makefile with *make*)
