@@ -10,4 +10,5 @@ Contains TW101 Assignments
 6. Diamond.java
 7. DiamondWithName.java
 8. Say.java
-9. prime\_factors.c ( execute Makefile with *make*)
+9. Number.java ( Prime factors program )
+10. prime\_factors.c ( execute Makefile with *make*), C implementation
